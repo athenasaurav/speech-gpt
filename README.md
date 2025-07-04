@@ -1,4 +1,4 @@
-# SpeechGPT: Speech Large Language Models
+# Speech-GPT-Zen: Speech Large Language Models
 
 <p align="center">
     <img src="speechgpt/imgs/logo.png" width="20%"> <br>
